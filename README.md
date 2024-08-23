@@ -3,12 +3,12 @@
 <br />  
 Welcome to the Object-Oriented Programming (OOP) CSE-201 repository. This repository contains course materials, assignments, and resources for the Object-Oriented Programming course.  
 <br />  
-Check out the playlist now and start your learning journey: [Object-Oriented Programming CSE-201 YouTube Playlist Link: ](https://youtube.com/playlist?list=YOUR_PLAYLIST_LINK_HERE)
+Check out the playlist now and start your learning journey: [Object-Oriented Programming CSE-201 YouTube Playlist Link: ](https://youtube.com/playlist?list=PLEc-WcPXUsjtu7VtqEWihb98zEywtdiZV&si=2sYvaFPyhNxohC9g)
 **Happy Learning!**
 <br />
 <img/>
 
-![Object-Oriented Programming](objectorientedprogrammingbanner.PNG)
+![Object-Oriented Programming](cse201banner.PNG)
   
 <br />  
 
